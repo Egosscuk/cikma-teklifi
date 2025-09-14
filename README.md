@@ -136,3 +136,5 @@ Sorularınız için issue açabilir veya https://egosscuk.com üzerinden iletiş
 ---
 
 Çıkma teklifi geri gelsin diyenlere...
+<img width="2547" height="1271" alt="image" src="https://github.com/user-attachments/assets/c646685f-359b-4261-81a0-619a1840bf5b" />
+

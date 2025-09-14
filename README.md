@@ -128,18 +128,11 @@ git push heroku main
 
 MIT License - Detaylar için LICENSE dosyasına bakın.
 
-## 🤝 Katkıda Bulunma
-
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Commit yapın (`git commit -m 'Add some AmazingFeature'`)
-4. Push yapın (`git push origin feature/AmazingFeature`)
-5. Pull Request oluşturun
 
 ## 📞 İletişim
 
-Sorularınız için issue açabilir veya pull request gönderebilirsiniz.
+Sorularınız için issue açabilir veya https://egosscuk.com üzerinden iletişime geçebilirsiniz.
 
 ---
 
-Made with 💕 for love proposals
+Çıkma teklifi geri gelsin diyenlere...
